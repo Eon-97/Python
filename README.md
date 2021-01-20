@@ -1,3 +1,3 @@
 # Python
 python_study
-# stntax 문법
+# syntax 문법
